@@ -1,4 +1,4 @@
-## 🎉Hi! Nice to meet you
+## 🎉Hi there! Nice to meet you
 
 > I'm a random se major college student who loves programming
 
